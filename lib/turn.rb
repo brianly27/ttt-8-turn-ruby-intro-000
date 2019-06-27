@@ -44,6 +44,6 @@ def turn(board)
     puts "Please enter a valid move"
   end
 end
-  
+
 
 end
